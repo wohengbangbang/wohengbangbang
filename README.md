@@ -2,4 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188EF7&width=435&lines=Hello+Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-![snake](https://raw.githubusercontent.com/wohengbangbang/output/main/dist/github-snake.svg)
+
+
+<h2>🐍 Contribution Snake</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/wohengbangbang/output/main/dist/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/wohengbangbang/output/main/dist/github-snake.svg">
+
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/wohengbangbang/output/main/dist/github-snake.svg">
+</picture>
