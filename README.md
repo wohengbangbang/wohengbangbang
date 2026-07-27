@@ -4,8 +4,6 @@
 
 
 
-<h2>🐍 Contribution Snake</h2>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
