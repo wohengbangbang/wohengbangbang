@@ -2,19 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188EF7&width=435&lines=Hello+Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-class Developer
-{
-public:
 
-    std::string name = "wohengbangbang";
+<img src="https://github-profile-trophy.vercel.app/?username=wohengbangbang&theme=darkhub"/>
 
-    std::vector<std::string> skills{
-        "C++",
-        "Windows Internals",
-        "UE4",
-        "Reverse Engineering"
-    };
-};
+
+
 
 <picture>
   <source
