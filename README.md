@@ -1,8 +1,7 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=188EF7&width=435&lines=Hello+Welcome+to+my+GitHub)](https://git.io/typing-svg)
-
-
 
 
 
@@ -21,4 +20,4 @@
 </picture>
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
